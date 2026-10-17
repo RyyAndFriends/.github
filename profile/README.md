@@ -4,13 +4,13 @@
 
 # SUPER ADMIN
 
-### `CODE` • `COLLABORATE` • `CREATE`
+### `CODE` • `CREATE` • `COLLABORATE`
 
-*A shared space for collaboration, learning, and software development.*
+*A shared space for Collaboration, learning, and Development.*
 
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge&logo=github)
-![Projects](https://img.shields.io/badge/Academic-Projects-2ea44f?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/Built%20Together-Collaboration-8957e5?style=for-the-badge)
+![ComSci](https://img.shields.io/badge/ComSci-Student-blue?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Collab-Projects-2ea44f?style=for-the-badge)
+![Connection](https://img.shields.io/badge/Built-Connection-8957e5?style=for-the-badge)
 
 ---
 
@@ -28,7 +28,7 @@ Think of this as our shared development space — a place for our source code, p
 
 <div align="center">
 
-### `git commit -m "Another project, another lesson"`
+### `git commit -m "Feat: Add Project == Add Lesson"`
 
 *Growing through collaboration. Building through practice. Improving with every project.*
 
