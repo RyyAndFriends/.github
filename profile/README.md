@@ -1,16 +1,14 @@
-<!-- THIS IS A PROGRAMMING UNIV-GROUPINGS RYAN HAS EVER ENTERED HIS WHOLE DAMN COLLEGE LIFE -->
-
 <div align="center">
 
 # SUPER ADMIN
 
-### `CODE` • `CREATE` • `COLLABORATE`
+### `CODE` • `COLLABORATE` • `CREATE`
 
-*A shared space for Collaboration, learning, and Development.*
+*A shared space for Collaboration, Learning, and Development.*
 
 ![ComSci](https://img.shields.io/badge/ComSci-Student-blue?style=for-the-badge&logo=github)
-![Projects](https://img.shields.io/badge/Collab-Projects-2ea44f?style=for-the-badge)
-![Connection](https://img.shields.io/badge/Built-Connection-8957e5?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Collab-Projects-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![Connection](https://img.shields.io/badge/Built-Connection-8957e5?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
